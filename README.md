@@ -1,5 +1,3 @@
-Duosi-Dai >> README
-
 Hi,there 👋
 
 - 👩‍🏫I'm currently studying in Interactive Media Technology Master program second year
